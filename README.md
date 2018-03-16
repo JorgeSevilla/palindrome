@@ -1,9 +1,24 @@
-# palindrome
+# Palindrome
+
 Fullstack Challenge
 
-Install dependencies with npm install
+#Prerequisites
 
-Run with npm start
+You might need npm installed
+
+### Build project
+
+Install dependencies 
+
+```
+npm install
+```
+
+Run with 
+
+
+```
+npm start
+```
 
 Access the application on localhost:3000
-
